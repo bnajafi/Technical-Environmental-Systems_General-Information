@@ -24,7 +24,7 @@ Please create and account on the NREL's Building Component Library https://bcl.n
 ## Software Installation
 In this course, we will use EnergyPlus Sketchup and  OpenStudio which should be downloaded installed from the corresponding links:
 
-* Pay attention that the softwares should be installed in the same order as given below:
+* *Important Note*: Pay attention that the softwares should be installed in the same order as given below:
 
 1. EnergyPlus
 In this [Link](https://energyplus.net/downloads) you can download the suitbale version of the software based on your operating System
