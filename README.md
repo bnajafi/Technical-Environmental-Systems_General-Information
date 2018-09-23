@@ -31,7 +31,7 @@ In this [Link](https://energyplus.net/downloads) you can download the suitbale v
 
 2. SketchUp:
 You can find the suitable installation file for your operating system from this [Link](https://www.sketchup.com/products/sketchup-free)
-Pay attention that we are going to use SketchUp Make (SketchUp Free) and not SketchUp Pro which is a commercial software.
+, Pay attention that we are going to use SketchUp Make (SketchUp Free) and not SketchUp Pro which is a commercial software.
 
 3. OpenStudio:
 The installation files of OpenStudio for different operating system can be found [here](https://www.openstudio.net/downloads). 
