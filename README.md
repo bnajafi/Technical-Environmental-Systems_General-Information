@@ -26,16 +26,15 @@ In this course, we will use EnergyPlus Sketchup and  OpenStudio which should be 
 
 * *Important Note*: Pay attention that the softwares should be installed in the same order as given below:
 
-1. EnergyPlus
+1. EnergyPlus:
 In this [Link](https://energyplus.net/downloads) you can download the suitbale version of the software based on your operating System
 
 2. SketchUp:
 You can find the suitable installation file for your operating system from this [Link](https://www.sketchup.com/products/sketchup-free)
 Pay attention that we are going to use SketchUp Make (SketchUp Free) and not SketchUp Pro which is a commercial software.
 
-3. OpenStudio 
+3. OpenStudio:
 The installation files of OpenStudio for different operating system can be found [here](https://www.openstudio.net/downloads). 
-
 
 
 
