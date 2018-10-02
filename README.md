@@ -30,8 +30,7 @@ In this course, we will use EnergyPlus Sketchup and  OpenStudio which should be 
 In this [Link](https://energyplus.net/downloads) you can download the suitable  version of the software based on your operating System
 
 2. SketchUp:
-You can find the suitable installation file for your operating system from this [Link](https://www.sketchup.com/products/sketchup-free)
-, Pay attention that we are going to use SketchUp Make (SketchUp Free) and not SketchUp Pro which is a commercial software.
+You can find the suitable installation file (SketchUp Make 2016) for your operating system from this [Link](https://help.sketchup.com/en/downloading-older-versions), Pay attention that we are going to use SketchUp Make and not SketchUp Pro which is a commercial software.
 
 3. OpenStudio:
 The installation files of OpenStudio for different operating system can be found [here](https://www.openstudio.net/downloads). 
