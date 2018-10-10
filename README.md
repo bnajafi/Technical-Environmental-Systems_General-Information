@@ -3,6 +3,7 @@
 Welcome to Polimi's "Technical Environmental Systems" course. 
 Before attending the first session of the course you should fill the following survey in which you will inform us about your contact information, academic background, and software skills.
 
+
 ## Course Survey
 
 [TES Survey Link](https://goo.gl/forms/JnD9s4VFycTdSX323)
@@ -34,6 +35,9 @@ You can find the suitable installation file (SketchUp Make 2016) for your operat
 
 3. OpenStudio:
 The installation files of OpenStudio for different operating system can be found [here](https://www.openstudio.net/downloads). 
+
+
+You can also download  the files from the following [DropBox link](https://www.dropbox.com/sh/7a5iz2t3t9wueli/AADjlkTwG5HMRjnDCvaw-J2Ma?dl=1)
 
 
 
