@@ -56,3 +56,7 @@ Before submitting your projet, you should send us the detailed information about
 *Important note: Only one of the members of the group should fill in the form and should insert the personal and contact information of all members.
 
 You should submit your project in this [repository](https://github.com/bnajafi/Polimi_TES_2018-19_BuildingSimulationProjects)
+
+In order to submit your project you can use git to do it automatically from your computer, so for the next session please remember to download it from [here](https://git-scm.com/)
+
+
