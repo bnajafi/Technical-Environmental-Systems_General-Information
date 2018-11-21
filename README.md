@@ -45,7 +45,7 @@ You can also download  the files from the following [DropBox link](https://www.d
 
 * In order to check whether you have correctly installed the above-mentioned softwares, you should verify that you have the OpenStudio add-on added to your SketchUp tools.
 
-## Project Submission (Deadline December 21st 2018)
+## Project Submission (Deadline Dec. 21st 2018)
 Before submitting your projet, you should send us the detailed information about the members of your group by filling out this [form](https://goo.gl/forms/ZWhIzcm5NvjBWDLU2):
 
 *Important note: Only one of the members of the group should fill in the form and should insert the personal and contact information of all members.
