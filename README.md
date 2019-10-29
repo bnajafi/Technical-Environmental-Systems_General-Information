@@ -23,9 +23,19 @@ Please create and account on the NREL's Building Component Library https://bcl.n
 - - - -
 
 ## Software Installation
-In this course, we will use EnergyPlus Sketchup and  OpenStudio which should be downloaded installed from the corresponding links:
-
+In this course, we will use EnergyPlus, Sketchup and  OpenStudio which should be downloaded and installed. You can also download  the files (For windows - 64bit) from the following [DropBox link](https://www.dropbox.com/sh/7a5iz2t3t9wueli/AADjlkTwG5HMRjnDCvaw-J2Ma?dl=1). 
 * *Important Note*: Pay attention that the softwares should be installed in the same order as given below:
+
+1. EnergyPlus
+2. SketchUp
+3. OpenStudio
+
+* It is noteworthy that, in case you already have the SketchUp software installed on your computer, you might have to re-install it as the OpenStudio version might not be compatible with your installed version of SketchUp. 
+
+* In order to check whether you have correctly installed the above-mentioned softwares, you should verify that you have the OpenStudio add-on added to your SketchUp tools.
+
+In case you are using another operating system (e.g. Linux, MacOs, Windows 32bits), you can download them from the following links:
+
 
 1. EnergyPlus:
 In this [Link](https://energyplus.net/downloads) you can download the suitable  version of the software based on your operating System
@@ -37,13 +47,11 @@ You can find the suitable installation file (SketchUp Make 2016) for your operat
 The installation files of OpenStudio for different operating system can be found [here](https://www.openstudio.net/downloads). 
 
 
-You can also download  the files from the following [DropBox link](https://www.dropbox.com/sh/7a5iz2t3t9wueli/AADjlkTwG5HMRjnDCvaw-J2Ma?dl=1)
 
 
 
-* It is noteworthy that, in case you already have the SketchUp software installed on your computer, you might have to re-install it as the OpenStudio version might not be compatible with your installed version of SketchUp. 
 
-* In order to check whether you have correctly installed the above-mentioned softwares, you should verify that you have the OpenStudio add-on added to your SketchUp tools.
+
 
 
 
