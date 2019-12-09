@@ -55,7 +55,7 @@ In this project, geometry of a commercial building should be first introduced in
 Pay attention that you should conduct the sensitivity analysis on the walls just for one city
 
 # Group Information
-You can send the information about the members of your group via this [link](https://forms.gle/xnkbwtY7LpPHGbsT9) till 11/04/2019, you will be assigned a time-slot
+You can send the information about the members of your group via this [link](https://forms.gle/xnkbwtY7LpPHGbsT9) till 11/12/2019, you will be assigned a time-slot
 
 
 
