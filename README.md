@@ -60,8 +60,10 @@ You can send the information about the members of your group via this [link](htt
 
 # Details Regarding the Final Exam
 The final written examination will include exercises and theoretical questions. The exercises will be similar and on the same topics as the ones which were solved in the class. The theoretical questions instead will only be posed from the topics in the context of which no exercise was not solved (including "solar radiation", "heat transfer through windows", "Heat gain, infiltration, and ventilation", "centralized HVAC system", and "solar thermal systems"). In the theoretical questions, the students are not required to write down the corresponding formulas and should instead be able to explain the concepts through explanation or schematic representation if needed. 
-## FormulasThe students are only required to remember the formulas related heat transfer through walls (through conduction and convection heat transfer in series or parallel conditions) and simplified heat transfer through wall calculations. Other formulas will be given in the exam paper and the students are thus not allowed to bring any formula paper. The RLF, and weather data tables along with the psychometric chart (if needed) will also be provided in the exam and the student should not bring them. 
-## Calculator The students should clearly remember to bring a simple calculator !
+## Formulas
+The students are only required to remember the formulas related heat transfer through walls (through conduction and convection heat transfer in series or parallel conditions) and simplified heat transfer through wall calculations. Other formulas will be given in the exam paper and the students are thus not allowed to bring any formula paper. The RLF, and weather data tables along with the psychometric chart (if needed) will also be provided in the exam and the student should not bring them. 
+## Calculator 
+The students should clearly remember to bring a simple calculator !
 
 
 
