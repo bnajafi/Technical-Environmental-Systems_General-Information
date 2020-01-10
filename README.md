@@ -58,7 +58,8 @@ Pay attention that you should conduct the sensitivity analysis on the walls just
 You can send the information about the members of your group via this [link](https://forms.gle/xnkbwtY7LpPHGbsT9) till 11/12/2019, you will be assigned a time-slot
 
 
-
+Details Regarding the Final Exam
+The final written examination will include exercises and theoritical questions. The exercises will be similar and on the same topics as the ones which were solved in the class. The theoritical questions instead will only be posed from the topics in the context of which no exercise was not solved. 
 
 
 
